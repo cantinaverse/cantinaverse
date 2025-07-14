@@ -12,3 +12,13 @@ Welcome to the CantinaVerse development team's GitHub profile! We're building a 
 - **Token Creation Platform** - Launch ERC-20 tokens with integrated Uniswap liquidity and vesting
 - **Casino Gaming Platform** - Provably fair blockchain games with NFT integration
 - **Governance DAO** - Community-driven platform development and decision making
+
+## 🛠️ Tech Stack
+
+- **Smart Contracts**: Solidity, Foundry Framework
+- **Frontend**: Next.js, React, JavaScript, TypeScript
+- **Web3 Integration**: Wagmi, Rainbowkit
+- **Backend**: Node.js
+- **Blockchain**: Optimism Superchain (Base, Optimism, Celo)
+- **Security**: OpenZeppelin, Chainlink VRF
+- **IPFS**: Pinata for decentralized storage
