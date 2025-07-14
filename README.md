@@ -30,3 +30,7 @@ Welcome to the CantinaVerse development team's GitHub profile! We're building a 
 - **NFT Marketplace**: Factory and marketplace contracts live
 - **Token Creation**: Comprehensive token launch infrastructure
 
+### Testnets
+- **Base Sepolia**: Full ecosystem deployment
+- **Celo Alfajores**: Gaming contracts deployment
+- **Optimism Sepolia**: Development and testing
