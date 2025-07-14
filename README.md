@@ -34,3 +34,11 @@ Welcome to the CantinaVerse development team's GitHub profile! We're building a 
 - **Base Sepolia**: Full ecosystem deployment
 - **Celo Alfajores**: Gaming contracts deployment
 - **Optimism Sepolia**: Development and testing
+
+## 🎯 Current Focus
+
+- Expanding gaming portfolio with new casino games
+- Implementing prediction market functionality
+- Enhancing NFT marketplace features
+- Building governance DAO infrastructure
+- Multi-chain deployment across OP Stack networks
