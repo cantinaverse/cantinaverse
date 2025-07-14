@@ -42,3 +42,10 @@ Welcome to the CantinaVerse development team's GitHub profile! We're building a 
 - Enhancing NFT marketplace features
 - Building governance DAO infrastructure
 - Multi-chain deployment across OP Stack networks
+
+## 📊 Platform Stats
+
+- **10,000+** NFT supply cap across collections
+- **11+** Gaming contracts deployed
+- **Multiple** ERC-20 tokens launched
+- **Multi-chain** support across Superchain
