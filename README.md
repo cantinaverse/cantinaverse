@@ -22,3 +22,11 @@ Welcome to the CantinaVerse development team's GitHub profile! We're building a 
 - **Blockchain**: Optimism Superchain (Base, Optimism, Celo)
 - **Security**: OpenZeppelin, Chainlink VRF
 - **IPFS**: Pinata for decentralized storage
+
+## 🌐 Current Deployments
+
+### Mainnet (Base Network)
+- **Gaming Ecosystem**: 11+ deployed casino and gaming contracts
+- **NFT Marketplace**: Factory and marketplace contracts live
+- **Token Creation**: Comprehensive token launch infrastructure
+
