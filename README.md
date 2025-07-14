@@ -49,3 +49,10 @@ Welcome to the CantinaVerse development team's GitHub profile! We're building a 
 - **11+** Gaming contracts deployed
 - **Multiple** ERC-20 tokens launched
 - **Multi-chain** support across Superchain
+
+## 🔗 Links
+
+- **Platform**: [cantinaverse.tech](https://cantinaverse.tech)
+- **Twitter**: [@cantinaverse](https://twitter.com/cantinaverse)
+- **Warpcast**: [cantinaverse](https://warpcast.com/cantinaverse)
+- **Contact**: cantinaverse@gmail.com
