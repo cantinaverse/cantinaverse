@@ -56,3 +56,13 @@ Welcome to the CantinaVerse development team's GitHub profile! We're building a 
 - **Twitter**: [@cantinaverse](https://twitter.com/cantinaverse)
 - **Warpcast**: [cantinaverse](https://warpcast.com/cantinaverse)
 - **Contact**: cantinaverse@gmail.com
+
+## 💡 Contributing
+
+We're actively developing across multiple repositories in the CantinaVerse organization, focusing on:
+
+- Smart contract development and testing
+- Frontend application enhancements
+- Security audits and optimizations
+- Cross-chain integration
+- Community-driven features
