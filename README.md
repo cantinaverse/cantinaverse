@@ -1,8 +1,8 @@
-# CantinaVerse Development Team
+# Hey Its WAGMI
 
 ## 👋 About
 
-Welcome to the CantinaVerse development team's GitHub profile! We're building a comprehensive blockchain ecosystem on Optimism's L2 Superchain, creating innovative solutions for NFT trading, token creation, gaming, and decentralized governance.
+I am a part of the CantinaVerse development team! We're building a comprehensive blockchain ecosystem on Optimism's L2 Superchain, creating innovative solutions for NFT trading, token creation, gaming, and decentralized governance.
 
 ## 🚀 What We're Building
 
@@ -49,13 +49,6 @@ Welcome to the CantinaVerse development team's GitHub profile! We're building a 
 - **11+** Gaming contracts deployed
 - **Multiple** ERC-20 tokens launched
 - **Multi-chain** support across Superchain
-
-## 🔗 Links
-
-- **Platform**: [cantinaverse.tech](https://cantinaverse.tech)
-- **Twitter**: [@cantinaverse](https://twitter.com/cantinaverse)
-- **Warpcast**: [cantinaverse](https://warpcast.com/cantinaverse)
-- **Contact**: cantinaverse@gmail.com
 
 ## 💡 Contributing
 
